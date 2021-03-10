@@ -1,10 +1,10 @@
 {
-"name": "com.hinxvietti.test-me",
-"displayName": "ump test plgin",
-"description": "thanks for who ..!",
-"version": "1.0.0",
-"unity": "2018.3",
-"license": "MIT",
-"dependencies": {
- }
+    "name": "com.hinxvietti.test-me",
+    "displayName": "ump test plgin",
+    "description": "thanks for who ..!",
+    "author": "Hinx Vietti <hinx@kmod.net> (http://www.kmod.net)",
+    "version": "1.0.1",
+    "unity": "2018.3",
+    "license": "MIT",
+    "dependencies": {}
 }
